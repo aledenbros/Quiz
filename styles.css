@@ -7,7 +7,7 @@ body {
     to {left: -200%}
 }
 
-#balls {
+#gradient {
     animation: move_right 20s infinite linear;
     position: absolute;
     top:-2%;
